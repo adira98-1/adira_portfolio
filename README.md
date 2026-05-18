@@ -311,7 +311,8 @@ ADF-Employee-ETL/
 
 <img width="1906" height="816" alt="image" src="https://github.com/user-attachments/assets/a0a1a963-cb50-48e5-ba9a-a4eb4159eb89" />
 
-<img width="1906" height="816" alt="image" src="https://github.com/user-attachments/assets/3ee21cac-ca47-4c6c-9094-6f07fadadfb9" />
+<img width="1914" height="835" alt="image" src="https://github.com/user-attachments/assets/de4bfe39-58fb-4229-a8b7-baaadfc7584c" />
+
 
 <img width="1915" height="784" alt="image" src="https://github.com/user-attachments/assets/4132ec96-82f3-4483-9f98-fc4705509932" />
 
