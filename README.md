@@ -309,5 +309,11 @@ ADF-Employee-ETL/
 
 "Designed and developed enterprise-scale Azure Data Factory pipelines for incremental ingestion from Azure SQL into ADLS and Snowflake using watermark logic, parameterized datasets, Data Flow transformations, stored procedures, and SCD Type 2 implementation."
 
+<img width="1906" height="816" alt="image" src="https://github.com/user-attachments/assets/a0a1a963-cb50-48e5-ba9a-a4eb4159eb89" />
 
-Technologies: Azure Data Factory, Azure SQL, Databricks, Snowflake, SQL, Python
+<img width="1906" height="816" alt="image" src="https://github.com/user-attachments/assets/3ee21cac-ca47-4c6c-9094-6f07fadadfb9" />
+
+<img width="1915" height="784" alt="image" src="https://github.com/user-attachments/assets/4132ec96-82f3-4483-9f98-fc4705509932" />
+
+
+
