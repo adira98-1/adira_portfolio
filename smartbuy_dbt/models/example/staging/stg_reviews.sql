@@ -1,0 +1,7 @@
+SELECT
+    REVIEW_ID,
+    CUSTOMER_ID,
+    PRODUCT_ID,
+    REVIEW_TEXT,
+    REVIEW_DATE
+FROM {{ source('raw', 'REVIEWS') }}

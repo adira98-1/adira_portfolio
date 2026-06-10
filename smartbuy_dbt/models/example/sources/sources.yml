@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SMARTBUY_DEV
+    schema: RAW
+
+    tables:
+      - name: CUSTOMERS
+      - name: PRODUCTS
+      - name: ORDERS
+      - name: ORDER_ITEMS
+      - name: REVIEWS
